@@ -1,0 +1,10 @@
+.image{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.image img{
+    padding:15px;
+    border-radius: 50px;
+}
